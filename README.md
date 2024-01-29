@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**andrew-osborne-sonarsource/andrew-osborne-sonarsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# About me
 
 - 🔭 I’m currently working on setting up GitHub and building a library of projects
 - 🌱 I’m currently learning how to set up GitHub with SonarCloud
